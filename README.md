@@ -14,10 +14,9 @@ Software Engineering student at **UNCW** (graduating Fall 2027), ocean rescue li
 - Software systems analysis
 - Databases, ER diagrams and SQL
 - Front-end stuff: TypeScript and React
+- **Wi-Fi crowd density heat map** (SENG 401 team project). Raspberry Pi sensors pick up Wi-Fi signals from devices in a room and send them to a FastAPI server running in the cloud on AWS. The server estimates where the devices are and serves that through an API, and a React + TypeScript web app draws the crowd density on a floorplan. Everything runs in Docker with HTTPS
 ## 📂 Some projects
 - **Swim Tracker** - a Python command-line app to log my practices and track my times
-- **Portfolio site** - my own site, built with HTML and CSS
-- **Local business demo site** - a lawn care website I built and deployed on Netlify with a working contact form (Formspree)
 ## 🏊 A bit about me
 - Transferred to UNCW from Chowan University
 - On the UNCW Swim Club, qualified for CCS Nationals and earned silver. Training for 2027 nationals now
